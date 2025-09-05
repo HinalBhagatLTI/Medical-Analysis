@@ -1,0 +1,20 @@
+#core python
+pandas
+numpy
+scipy
+
+#Machine learning
+Scikit-learn
+xgboost
+
+#Visualization
+matplotlib
+seaborn
+plotly
+
+#Deep Learning
+torch
+
+#Dashboard
+streamlit
+
