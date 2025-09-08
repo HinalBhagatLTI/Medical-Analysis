@@ -2,10 +2,13 @@
 pandas
 numpy
 scipy
+pyyaml
 
 #Machine learning
 Scikit-learn
 xgboost
+joblib
+gradio
 
 #Visualization
 matplotlib
